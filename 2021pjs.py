@@ -1,7 +1,7 @@
 import random
 import os
 aa = 0
-while aa < 1:
+while aaaaaaaa< 1:
     print("======================================")
     num1 = [1,2,3,4,5]                       #定义三个任务位置的列表
     #第一次随机位置开始
